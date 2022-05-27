@@ -1,2 +1,2 @@
 # scatterplot
-This is a scatterplot.
+This is a scatterplot :)
