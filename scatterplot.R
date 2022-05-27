@@ -6,4 +6,4 @@ dataset <- tibble(mtcars)
 
 dataset %>% 
   ggplot(aes(mpg, hp)) +
-  geom_point()
+  geom_point(color = "blue")
